@@ -11,3 +11,4 @@
 * スライスサンプリング : MCMCの一種であるスライスサンプリングを実装した. 
 * Bayesロジスティック回帰: Laplace近似と仮定密度フィルタリングを用いてBayesロジスティック回帰の実験を行った. 
 * Reparameterization Trick: 確率的変分推論法においてELBOをreparameterization trickを用いて近似して学習した. 
+* Variational AutoEncoder: 変分オートエンコーダを用いて簡単なクラスタリングを行った. 
