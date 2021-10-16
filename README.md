@@ -12,3 +12,4 @@
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Bayes%20Logistic%20Regression.ipynb">Bayesロジスティック回帰</a>: Laplace近似と仮定密度フィルタリングを用いてBayesロジスティック回帰の実験を行った. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/reparameterization-trick.ipynb">Reparameterization Trick</a>: 確率的変分推論法においてELBOをreparameterization trickを用いて近似して学習した. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/VAE.ipynb">Variational AutoEncoder</a>: 変分オートエンコーダを用いて簡単なクラスタリングを行った. 
+* <a href="https://github.com/kitano-AppMath/statistics/blob/main/BVAE.ipynb">Bayesian Variational Autoencoder</a>: Bayes版の変分オートエンコーダを実装した. 
