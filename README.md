@@ -12,7 +12,7 @@
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Gaussian%20Process.ipynb">Gauss過程回帰</a>: Gauss過程回帰を実装した. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/BNN.ipynb">Bayesian Neural Network</a> : BNNをいくつかの方法で訓練し, 分類タスクを実験した. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Assumed-Density-Filtering.ipynb">仮定密度フィルタリング</a> : 仮定密度フィルタリングを用いて, 正規分布のパラメータ推定を行った. 
-* * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Expectation%20Propagation.ipynb">期待値伝播法</a>: 期待値伝播法を用いて混合正規分布の推定を行った. 
+* <a href="https://github.com/kitano-AppMath/statistics/blob/main/Expectation%20Propagation.ipynb">期待値伝播法</a>: 期待値伝播法を用いて混合正規分布の推定を行った. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Variational%20Inference.ipynb">変分推論</a> : 平均場近似と確率的変分推論の実験を行った. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/reparameterization-trick.ipynb">Reparameterization Trick</a>: 確率的変分推論法においてELBOをreparameterization trickを用いて近似して学習した. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/VAE.ipynb">Variational AutoEncoder</a>: 変分オートエンコーダを用いて簡単なクラスタリングを行った. 
