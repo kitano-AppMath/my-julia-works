@@ -21,3 +21,4 @@
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/BVAE-img.ipynb">Bayes版の変分オートエンコーダによる画像クラスタリング</a>: MNISTデータのクラスタリングを実行した. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/gradient%20estimate.ipynb">期待値の勾配推定</a>: 期待値の密度関数のパラメータに関する勾配計算の方法を比較した. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Mathematical%20Model%20for%20Natural%20Language.ipynb">言語の数理モデル</a>: Barabási-Albertネットワーク上のランダムウォークを言語モデルとみなして, 自然言語の統計的言語普遍を検証した. 
+<a href="https://github.com/kitano-AppMath/statistics/blob/main/Natural%20Language%20as%20a%20Sequential%20Data.ipynb">言語の記憶性</a>: 自然言語の記憶性を検証した. 
