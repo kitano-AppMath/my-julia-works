@@ -24,3 +24,4 @@
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Natural%20Language%20as%20a%20Sequential%20Data.ipynb">言語の記憶性</a>: 自然言語の記憶性を検証した. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Nonparametric%20Bayesian%20Inference.ipynb">Dirichlet過程</a>: Dirichlet過程の基本的な実験を行った. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Hands-on%20Deep%20Learning.ipynb">深層学習ハンズオン実装</a>: 深層学習の実装例. 簡単な分類問題に取り組んだ. 
+* <a href="https://github.com/kitano-AppMath/statistics/blob/main/Functional-Analysis--Numerical-Analysis.ipynb">関数近似</a>: 射影定理の応用として, 関数近似をいくつか試した. 
