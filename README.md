@@ -13,7 +13,6 @@
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/BNN.ipynb">Bayesian Neural Network</a> : BNNをいくつかの方法で訓練し, 分類タスクを実験した. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Assumed-Density-Filtering.ipynb">仮定密度フィルタリング</a> : 仮定密度フィルタリングを用いて, 正規分布のパラメータ推定を行った. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Expectation%20Propagation.ipynb">期待値伝播法</a>: 期待値伝播法を用いて混合正規分布の推定を行った. 
-* <a href="https://github.com/kitano-AppMath/statistics/blob/main/Variational%20Inference.ipynb">変分推論</a> : 平均場近似と確率的変分推論の実験を行った. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/reparameterization-trick.ipynb">Reparameterization Trick</a>: 確率的変分推論法においてELBOをreparameterization trickを用いて近似して学習した.
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Reparametrization-tirck.ipynb">期待値の勾配推定</a>: 期待値の密度関数のパラメータに関する勾配計算の方法を比較した. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/Mathematical%20Model%20for%20Natural%20Language.ipynb">言語の数理モデル</a>: Barabási-Albertネットワーク上のランダムウォークを言語モデルとみなして, 自然言語の統計的言語普遍を検証した. 
