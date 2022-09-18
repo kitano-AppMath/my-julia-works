@@ -1,7 +1,8 @@
 # statistics
 
 ## 概要
-ここには統計/機械学習関連のノートを置いておきます. 主にBayes統計を扱っています. 
+ここには統計/機械学習関連のノートを置いておきます. 主にBayes推論を扱っています. 
+* <a href="https://github.com/kitano-AppMath/statistics/blob/main/Variational-Inference.ipynb">変分推論法</a>：平均場近似による変分推論法, 勾配計算に基づく変分推論法のそれぞれを実験しました. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/hierarchical-model.ipynb">階層モデルの予測分布</a> : 階層モデルの予測分布には2種類ある. それぞれの予測分布をいくつかの方法で計算する.
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/HMC.ipynb">Hamiltonian Monte Carlo法</a>: Hamiltonian Monte Carlo法を実装した. 
 * <a href="https://github.com/kitano-AppMath/statistics/blob/main/slice%20sampling.ipynb">スライスサンプリング</a> : スライスサンプリングを実装した.  
